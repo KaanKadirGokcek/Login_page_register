@@ -1,4 +1,5 @@
-HTML, CSS ve JavaScriptile login ile create user sayfası oluşturabilirsiniz.
+HTML, CSS ve JavaScriptile login ile create user sayfası oluşturabilirsiniz. 
+Ekleyeceğiniz diğer bağlantılarla Google, GitHub, Linkedin ve Facebook'a daha kolay erişim sağlayabilirsiniz.
 
 ![signin](https://github.com/KaanKadirGokcek/Login_page_register/assets/115478552/7612abb3-43fe-4439-80f2-fb92ef3bd9e0)
 
